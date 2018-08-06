@@ -21,7 +21,7 @@
 		</config-file>
 
 		<source-file src="res/drawable/ic_launcher_background.xml" target-dir="res/drawable" />
-		<source-file src="res/drawable-v24/ic_launcher_background.xml" target-dir="res/drawable-v24" />
+		<source-file src="res/drawable-v24/ic_launcher_foreground.xml" target-dir="res/drawable-v24" />
 		<source-file src="res/values/ic_launcher_background.xml" target-dir="res/values" />
 
 	    <source-file src="res/mipmap/launcher.png" target-dir="res/mipmap" />
