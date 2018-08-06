@@ -20,11 +20,34 @@
 		   xmlns:android="http://schemas.android.com/apk/res/android" />
 		</config-file>
 
-		<source-file src="res/drawable/launcher.xml" target-dir="res/drawable" />
-		<source-file src="res/drawable/launcher_round.xml" target-dir="res/drawable" />
-		<source-file src="res/drawable/launcher_background.xml" target-dir="res/drawable" />
-		<source-file src="res/drawable/launcher_foreground.xml" target-dir="res/drawable" />
+		<source-file src="res/drawable/ic_launcher_background.xml" target-dir="res/drawable" />
+		<source-file src="res/drawable-v24/ic_launcher_background.xml" target-dir="res/drawable-v24" />
+		<source-file src="res/values/ic_launcher_background.xml" target-dir="res/values" />
 
+	    <source-file src="res/mipmap/launcher.png" target-dir="res/mipmap" />
+
+		<source-file src="res/mipmap-anydpi-v26/ic_launcher.xml" target-dir="res/mipmap-anydpi-v26" />
+		<source-file src="res/mipmap-anydpi-v26/ic_launcher_round.xml" target-dir="res/mipmap-anydpi-v26" />
+
+		<source-file src="res/mipmap-hdpi/launcher.png" target-dir="res/mipmap-hdpi" />
+		<source-file src="res/mipmap-hdpi/ic_launcher_foreground.png" target-dir="res/mipmap-hdpi" />
+		<source-file src="res/mipmap-hdpi/ic_launcher_round.png" target-dir="res/mipmap-hdpi" />
+
+		<source-file src="res/mipmap-mdpi/launcher.png" target-dir="res/mipmap-mdpi" />
+		<source-file src="res/mipmap-mdpi/ic_launcher_foreground.png" target-dir="res/mipmap-mdpi" />
+		<source-file src="res/mipmap-mdpi/ic_launcher_round.png" target-dir="res/mipmap-mdpi" />
+
+		<source-file src="res/mipmap-xhdpi/launcher.png" target-dir="res/mipmap-xhdpi" />
+		<source-file src="res/mipmap-xhdpi/ic_launcher_foreground.png" target-dir="res/mipmap-xhdpi" />
+		<source-file src="res/mipmap-xhdpi/ic_launcher_round.png" target-dir="res/mipmap-xhdpi" />
+
+		<source-file src="res/mipmap-xxhdpi/launcher.png" target-dir="res/mipmap-xxhdpi" />
+		<source-file src="res/mipmap-xxhdpi/ic_launcher_foreground.png" target-dir="res/mipmap-xxhdpi" />
+		<source-file src="res/mipmap-xxhdpi/ic_launcher_round.png" target-dir="res/mipmap-xxhdpi" />
+
+		<source-file src="res/mipmap-xxxhdpi/launcher.png" target-dir="res/mipmap-xxxhdpi" />
+		<source-file src="res/mipmap-xxxhdpi/ic_launcher_foreground.png" target-dir="res/mipmap-xxxhdpi" />
+		<source-file src="res/mipmap-xxxhdpi/ic_launcher_round.png" target-dir="res/mipmap-xxxhdpi" />
     </platform>
 	
 </plugin>
