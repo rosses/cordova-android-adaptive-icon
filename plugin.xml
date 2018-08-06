@@ -20,10 +20,10 @@
 		   xmlns:android="http://schemas.android.com/apk/res/android" />
 		</config-file>
 
-		<source-file src="res/drawable/launcher.xml" target="res/drawable/launcher.xml" />
-		<source-file src="res/drawable/launcher_round.xml" target="res/drawable/launcher_round.xml" />
-		<source-file src="res/drawable/launcher_background.xml" target="res/drawable/launcher_background.xml" />
-		<source-file src="res/drawable/launcher_foreground.xml" target="res/drawable/launcher_foreground.xml" />
+		<source-file src="res/drawable/launcher.xml" target-dir="res/drawable" />
+		<source-file src="res/drawable/launcher_round.xml" target-dir="res/drawable" />
+		<source-file src="res/drawable/launcher_background.xml" target-dir="res/drawable" />
+		<source-file src="res/drawable/launcher_foreground.xml" target-dir="res/drawable" />
 
     </platform>
 	
